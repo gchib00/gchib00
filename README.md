@@ -8,7 +8,7 @@
 - Historical quiz game (my first project)
 - Created using HTML, CSS, vanilla Javascript and Django framework for the backend
 
-#### [Vogg](https://gchib00.pythonanywhere.com/) 
+#### [Vogg](https://gchib00.github.io/vogg_eshop/) 
 - Online shoe catalogue
 - Created using REACT + Material UI
 
