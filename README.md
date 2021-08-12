@@ -12,6 +12,7 @@
 - Online shoe catalogue
 - Created using REACT + Material UI
 
-<br>
-
-##### Currently working on a money-management web-app using React and NodeJS
+#### [Storefront](https://gchib00.github.io/eshop_react/)
+ - Minimalistic e-commerce website
+ - Created using REACT + Apollo server
+ - Products are not hardcoded, they are fetched from a GraphQL endpoint
