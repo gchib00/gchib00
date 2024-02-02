@@ -1,6 +1,6 @@
 **Some of my personal projects:**
 
-#### [Bluestat.eu](https://bluestat.eu/) 
+#### [Bluestat](https://gchib00.github.io/bluestat/) 
 - Dynamic data map of Europe which gets rendered according to the Worldbank API's response
 - Created using React, MUI and styled-components
 - Repo - https://github.com/gchib00/bluestat
